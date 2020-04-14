@@ -32,9 +32,7 @@
 - 实施：小规模实验，推广全公司落地，形成制度
 - 结果：统计最终汇报效果汇报
 
-### 前端知识脑图
 
-![前端知识脑图](https://cdn.nlark.com/yuque/0/2020/png/157470/1586849152241-57d4aed9-5f93-47bd-a1c8-2b8d18eefe7b.png?x-oss-process=image/resize,w_746)
 
 
 
